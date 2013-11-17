@@ -20,17 +20,17 @@ $wgResourceModules['skins.quartz'] = array(
 		"skins/common/commonElements.css" => array( 'media' => 'screen' ),
 		"skins/common/commonContent.css" => array( 'media' => 'screen' ),
 		"skins/common/commonInterface.css" => array( 'media' => 'screen' ),
-		"skins/quartz/screen.css" => array( 'media' => 'screen' ),
-		"skins/quartz/player/citrine.css" => array( 'media' => 'screen' )
+		"skins/Quartz/quartz/screen.css" => array( 'media' => 'screen' ),
+		"skins/Quartz/quartz/player/citrine.css" => array( 'media' => 'screen' )
 	),
 	'scripts' => array(
 		"resources/jquery.effects/jquery.effects.core.js",
 		"resources/jquery.effects/jquery.effects.drop.js",
 		"skins/quartz/quartz.js",
 		"skins/common/foes.js",
-		"skins/quartz/player/jquery.jplayer.min.js",
-		"skins/quartz/player/jplayer.playlist.min.js",
-		"skins/quartz/player/player.js"
+		"skins/Quartz/quartz/player/jquery.jplayer.min.js",
+		"skins/Quartz/quartz/player/jplayer.playlist.min.js",
+		"skins/Quartz/quartz/player/player.js"
 	),
 	'remoteBasePath' => $GLOBALS['wgStylePath'],
 	'localBasePath' => $GLOBALS['wgStyleDirectory']
