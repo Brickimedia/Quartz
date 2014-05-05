@@ -202,16 +202,16 @@ class QuartzTemplate extends BaseTemplate {
 						</ul>
 					</li>
 					<li>
-						<a href="http://cuusoo.brickimedia.org">CUUSOO Wiki</a>
+						<a href="http://ideas.brickimedia.org">Ideas Wiki</a>
 						<ul class="submenu">
 							<li>
-								<a href="http://cuusoo.brickimedia.org/wiki/Special:RecentChanges">Recent Changes</a>
+								<a href="http://ideas.brickimedia.org/wiki/Special:RecentChanges">Recent Changes</a>
 							</li>
 							<li>
-								<a href="http://cuusoo.brickimedia.org/wiki/Special:Mytalk">My Talk</a>
+								<a href="http://ideas.brickimedia.org/wiki/Special:Mytalk">My Talk</a>
 							</li>
 							<li>
-								<a href="http://cuusoo.brickimedia.org/wiki/Forum:Index">Forums</a>
+								<a href="http://ideas.brickimedia.org/wiki/Forum:Index">Forums</a>
 							</li>
 						</ul>
 					</li>
