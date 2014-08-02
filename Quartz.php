@@ -215,6 +215,20 @@ class QuartzTemplate extends BaseTemplate {
 							</li>
 						</ul>
 					</li>
+                    <li>
+						<a href="http://minifigures.brickimedia.org">LEGO Minifigures Online Wiki</a>
+						<ul class="submenu">
+							<li>
+								<a href="http://minifigures.brickimedia.org/wiki/Special:RecentChanges">Recent Changes</a>
+							</li>
+							<li>
+								<a href="http://minifigures.brickimedia.org/wiki/Special:Mytalk">My Talk</a>
+							</li>
+							<li>
+								<a href="http://minifigures.brickimedia.org/wiki/Special:WikiForum">Forums</a>
+							</li>
+						</ul>
+					</li>
 				</ul>
 			</div>
 			<?php $this->renderNavigation( 'PERSONAL' ); ?>
